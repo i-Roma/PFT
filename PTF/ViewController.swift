@@ -5,7 +5,6 @@
 //  Created by Roman Romanenko on 6/7/16.
 //  Copyright © 2016 Roman Romanenko. All rights reserved.
 //
-//test
 
 import UIKit
 
